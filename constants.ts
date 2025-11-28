@@ -1,0 +1,18 @@
+export const IMAGES = {
+    hero: "https://lh3.googleusercontent.com/aida-public/AB6AXuCL3jiT17tYX5EKwEg-XULtwP1oGyOvuGZr-qFhZgD-eTGT6ouCDwrMmYcFFvnokscQqvHDPMWrd0_NQaFyufvIR_4YKbNXI2zOJLdmcerzFEMJ7r3yFcuZ5t-kOeizKtAdjIJAit0S1dqPnsBEkSY9YO5Ould-heAYI-1K6H1Y7eyrAH5zPX5bklzz1K_0mpH6eSdd2_8sS5HdBN0y83Fuf6JtqAzYEOxCFOmS083LPt1NLCBvxWDjAepuNcoCzxt9_udsjtdI-wER",
+    about: "https://lh3.googleusercontent.com/aida-public/AB6AXuDW3l9FkYoKq4pBmNBHmn8aomppDWao1OryNYSrLUVZwT_OY_oE96iEcJZq4zJLB6iDaIRhEEoxGHS-zU_qUZJtVRTZqdk50IUBb1tuV9Ib_1Nr_znc0SIiN95zu17Hvm9U9cR47Bu21aD0sCfZNHrI-EAHt60a6FZXgElKkiVxzcYmP5HDz7kVubri7XIP49rfvchciJmYFy62YPb2sMZ8EXTxVp2rBiX7p4aL9_eBaMHr8Ey3RjqvBkz1xQV7Y-YqtA5sTwzhQLVV",
+    gallery: [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuDuoLpE2xLBYbyYeyvzTUY440Yo635AGmyvvS3P5w8P8ydiwyX1ANjJt8OwibIJ980g2X1wN49WBQoOy6ewyUgW5Sz5vTuIthW5l1vSZtwjwLykezTyTnxAFyYu6vQcbSoyC18je2PntErTMZrP4hRpEITcEiM2lg8tvPaxWj-_NDnd0VEm9_B8AhaZTu_5SUnq4O8ZIH0aMHUkcdSkxq52n_Igzp9omUyPNXcm0-soIGnVKoeZM8orSY-X37y0DOmGP43Ud8OwAJKF",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuDAxipVgXUEAVehsF2uzGGpz_uOTYqt5DaF5wwDrx3GpkN9TnjZEUwnYqVu3xSRhRPDkUJRlt9vNenMTW7fPPW2FIURcYZCnAoP9yg3n9bGk5LcicP0WcKmaH1PlAqbLcf1mBCgRhCPSg7V1v7_oyhgkxc_OqyYJurOFIbbW-qiX1TtLRMt6m5PoqBkj1i6QwjBRyKcFtITd1rGCNtTbAF9rBnPrB-3Oh0OpNchnyUPmndqPkvpqq0fELIU-B5rm1PUfwHX88FcHJWw",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuC2RzKcnXMabil0YFOrB1Zo_pW0r_wTwn1t0uYOr-4oVd7zWWTMlY6H-9CfOokNjKlTBsueqbIwVR7q4gJIq8wO7iL48fDzTwV3memTDXH36wrW79fu6s5uFllRgV8i33jVyV-sW7ubr5PWKD7ZRB0PF-QtoRmBV0nDppVjjmMa6rBjzR3kymLdiX3FB0jt0DnFFx539Vd7F7NBdH1Bd8oVQ-iUIXiwbCBSyUwKQNSXk4gUkfBzIPZ3f3VjuGXPqhxsgs6_U7AX5tyb",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCGSuylQjVt2yLMIQ-vHCNuJo9S4MNafYa64lpjoCHRwW-lWEI8aGBgoPorbPwMenRYzwJpLG6zqgfo4wu4_uJk2BiZggvG478Mfe427b9WDjZWFjqHLbDOwTBKY0fWB0o8Y-4zYniUDs5y7RZJTFv-ziS2DmG8UBk6q41NnjP5QUXu8ch9uAjN1pgIBpmt3Xko8TD_9m2hBbqkwvStThOCfg9ff7droagyVL_TcKp_Ej1v-S_E2UeivDHe8Q3powyDz0x5UxoO5-13",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAZMRR3WBzA3ysW6_hMV3ivvqsL2WwdJuOj3nji_9wX9DD9TJbJIPIufoXE3zGTiw9t1d3Jh0Fqa_wukf8CHIykDJJJNgyWaTs0zavPZG6MQOLw-nHRLH7X0i2wZIB0a-wkn2rGeffCPQC4dokZHMbU2K35npIIz-L4U0Gl2q7GiGPoNVU5GBe6ecjGWla_xu9nlyMv-eTNG2CwrKn_j3lO4Aovf4iA1rKcX8RtCeMP9bslnTtQbix3zltjt8c2MyCJdwwYBrVk6Zkw",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuBQwH7Ca4FCIa2qNXo4A6l-JgLm1Mwys3QgfvHiB-ZbjX5el5khSa07PitxqT0lgd-kuTPZn4SWA3utqdHW_NZoZ_vULSyeQaR8VxuYO6H66sPtSGJeXEvHcAa8w_sqI9Mvo6vyfeqPUu2BNqT9_9MO78QNnFB8zgJfSvLpcoJ_7LulSti1dRzhMLrWmPqh53irmBQlojHN0v6jiV4K5kjDOh2TJgAi0eIMTeHt5yG28DLHy6LXvKB7EYFuc4QMhgAHX8zZ8teY2Qe9"
+    ]
+};
+
+export const CONTACT_INFO = {
+    phone: "(11) 98765-4321",
+    email: "contato@confeitariadossonhos.com",
+    address: "Atendemos em São Paulo, SP"
+};
